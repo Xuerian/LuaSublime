@@ -60,7 +60,7 @@ repository:
 
   function-definition:
     name: meta.function.lua
-    begin: \b(function)\s+([a-zA-Z_.:]+[.:])?([a-zA-Z_]\w*)\s*(\()([^)]*)(\))
+    begin: \b(function)\s?([a-zA-Z_.:]+[.:])?([a-zA-Z_]\w*)?\s*(\()([^)]*)(\))
     beginCaptures:
       '1': {name: keyword.control.lua}
       '2': {name: entity.name.function.scope.lua}
