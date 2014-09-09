@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>comment</key>
-	<string>Lua Syntax (Based on SublimeLove syntax file by cybojanek)</string>
+	<string>Lua Syntax (Based on SublimeLua by rorydriscoll and SublimeLove syntax file by cybojanek)</string>
 	<key>fileTypes</key>
 	<array>
 		<string>lua</string>

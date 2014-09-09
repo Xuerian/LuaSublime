@@ -1,5 +1,5 @@
 name: Lua (Advanced)
-comment: Lua Syntax (Based on SublimeLove syntax file by cybojanek)
+comment: Lua Syntax (Based on SublimeLua by rorydriscoll and SublimeLove syntax file by cybojanek)
 scopeName: source.lua
 fileTypes: [lua]
 foldingStartMarker: ^\s*\b(function|local\s+function|if|for)\b|{[ \t]*$|\[\[
